@@ -12,7 +12,6 @@ Amo **Python**, adoro **Java** e, secundariamente, também sei **C/C++** | **C#*
 
 <p align="center">
   <img src="https://cdn.pixabay.com/animation/2025/11/16/14/18/14-18-13-48_512.gif" width="64" align="middle"/>
-  <img src="https://cdn.pixabay.com/animation/2025/11/16/14/18/14-18-13-48_512.gif" width="64" align="middle"/>
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
@@ -23,7 +22,6 @@ Amo **Python**, adoro **Java** e, secundariamente, também sei **C/C++** | **C#*
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Rust-B7410E?style=flat-square&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://cdn.pixabay.com/animation/2025/11/16/14/18/14-18-13-48_512.gif" width="64" align="middle"/>
   <img src="https://cdn.pixabay.com/animation/2025/11/16/14/18/14-18-13-48_512.gif" width="64" align="middle"/>
 </p>
 
