@@ -32,7 +32,7 @@ Meu foco é a atuação no ramo de **cibersegurança** e **IA** (como *Machine L
 <table>
   <tr>
 	<td align="center" width="50%">
-	  <img src="https://cdn.pixabay.com/animation/2024/02/22/14/55/14-55-54-406_512.gif" width="110" align="middle"/><br/>
+	  <img src="https://cdn.pixabay.com/animation/2024/07/15/23/18/23-18-14-953_512.gif" width="110" align="middle"/><br/>
 	  <b>Cibersegurança</b>
 	</td>
 	<td align="center" width="50%">
