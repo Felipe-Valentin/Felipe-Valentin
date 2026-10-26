@@ -81,7 +81,7 @@ Não só no âmbito político, prezo pelas ideias difundidas pelo ilustre **Dr. 
 		 width="83"
 		 align="middle">
 	<i>Carpe diem</i>&nbsp;  ✨
-	<br/><sub>Ego cogito, ergo sum</sub>
+	<br/><sub><i>Ego cogito, ergo sum</i></sub>
 	<br/><br/><img src="https://cdn.pixabay.com/photo/2022/07/06/18/30/skyway-7305763_1280.png" align="middle"/>
   </h2>
 </div>
