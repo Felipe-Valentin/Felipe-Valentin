@@ -3,9 +3,9 @@ Me chamo <i><b>Felipe dL. Valentin</b></i>, e aqui está um pouco sobre mim:
 
 ## 💻 Linguagens
 Amo **Python**, adoro **Java** e, secundariamente, também sei **C/C++** | **C#** | **GDScript** | **Arduino** | **CSS3** | **JS** | **Go** | **Rust** e escrever **HTML5**.
-</div>
 
 <img src="https://cdn.pixabay.com/animation/2025/11/16/14/18/14-18-13-48_512.gif" width="64" align="middle"/>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" align="middle"/>
