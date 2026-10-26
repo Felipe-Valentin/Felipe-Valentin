@@ -86,7 +86,7 @@ Não só no âmbito político, prezo pelas ideias difundidas pelo ilustre **Dr. 
   </h2>
 </div>
 
-<sub>Alguns controladores internos meus <b>(ignore essa seção)</b>:
+<sub>Controladores internos meus <b>(ignore essa seção)</b>:
 <br/>
 evaporationProtocol: false
 <br/>
