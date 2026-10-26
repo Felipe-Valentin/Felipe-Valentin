@@ -5,24 +5,27 @@ Me chamo <i><b>Felipe dL. Valentin</b></i>, e aqui está um pouco sobre mim:
 Amo **Python**, adoro **Java** e, secundariamente, também sei **C/C++** | **C#** | **GDScript** | **Arduino** | **CSS3** | **JS** | **Go** | **Rust** e escrever **HTML5**.
 </div>
 
+<img src="https://cdn.pixabay.com/animation/2025/11/16/14/18/14-18-13-48_512.gif" width="64" align="middle"/>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" align="middle"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" align="middle"/>
 </p>
 
 <p align="center">
-  <img src="https://cdn.pixabay.com/animation/2025/11/16/14/18/14-18-13-48_512.gif" width="64" align="middle"/>
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Rust-B7410E?style=flat-square&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://cdn.pixabay.com/animation/2025/11/16/14/18/14-18-13-48_512.gif" width="64" align="middle"/>
 </p>
 
 ## 🎯 Foco de atuação
@@ -77,7 +80,7 @@ Não só no âmbito político, prezo pelas ideias difundidas pelo ilustre **Dr. 
 	<img src="https://cdn.pixabay.com/animation/2023/05/28/13/22/13-22-30-666_512.gif"
 		 width="83"
 		 align="middle">
-	<i>Obrigado por passar por aqui!</i>&nbsp;  ✨
+	<i>Carpe diem</i>&nbsp;  ✨
 	<br/><br/><img src="https://cdn.pixabay.com/photo/2022/07/06/18/30/skyway-7305763_1280.png" align="middle"/>
   </h2>
 </div>
